@@ -11,4 +11,4 @@ Konfigurasi:
 
 Demo Aplikasi
 
-https://docs.google.com/document/d/1hy84v-ouhRTmOwdl5Q-QTuriCqW8hkiLn501dMDUSWQ/edit?usp=sharing
+https://drive.google.com/file/d/1e7L1Q07zQhZSObYwuKsmrRBm9Fx5VjbI/view?usp=sharing
